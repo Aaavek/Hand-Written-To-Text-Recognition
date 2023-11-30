@@ -43,4 +43,4 @@ You can check the accuracy of this model too.
 
 The same files also can be used to train the CNN files but.
 
-Here is the link to the detailed report for our project.[Project Report](/home/vivek/Documents/AI ML/Project/modified/img_to_csv.ipynb)
+Here is the link to the detailed report for our project.[Project Report](https://drive.google.com/drive/folders/1xg7TAoPDq0VNKdQf03dQfiVkvOroFKHc?usp=sharing)
